@@ -1,0 +1,13 @@
+{
+    "autoload" : {
+        "psr-4": {
+            "App\\": "app"
+        },
+        "files": [
+            "./app/Lib/Config.php",
+            "./app/Lib/Auth.php",
+            "./app/Lib/DataHelper.php",
+            "./app/Lib/AdminFormConfig.php"
+        ]
+    }
+}
